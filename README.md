@@ -36,7 +36,7 @@ pnpm create next-app --example https://github.com/vercel/examples/tree/main/solu
 Then, run Next.js in development mode:
 
 ```bash
-pnpm dev
+bun --bun run dev
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
